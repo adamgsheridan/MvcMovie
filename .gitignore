@@ -1,0 +1,16 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# SQLite database and temporary files
+*.db
+*.db-shm
+*.db-wal
+
+# Local environment settings and secrets
+.env
